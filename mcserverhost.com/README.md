@@ -1,5 +1,8 @@
-# mcserverhost.com Server Renewer
-Automatically renews your server every 15 minutes non-stop.
+# mcserverhost.com Server Utils
+Different tools.
+
+## Features (currently?)
+- Server renewer - renews your server every 15 mins
 
 ## Before using:
 - Make sure your cookie is working (it may expire sometimes..)
